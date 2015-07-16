@@ -1,0 +1,59 @@
+
+     
+         body{
+              background-color: "AliceBlue"; 
+              background-image: url(../images/ground.jpg);
+              background-size: cover;
+              font-family:;
+             
+             } 
+              
+              
+             
+             a:link { color: CadetBlue;
+                      font-weight: Bold;
+             }
+             
+             a:visited{
+                 color:purple;
+                 
+             }
+             
+             a:hover {
+                 color:Violet;
+                 
+             }
+             
+             a:active {
+                 color:blue;
+             
+                 
+             }
+             
+               
+               h2 { color: DarkOrchid;
+             font-family:Arial;
+       
+         }
+         
+         
+         h3 { color: Crimson;
+        
+        .nav {
+            list-style-type:none;
+         }
+        
+         .nav a {
+            padding:5px;
+             background-color: Red;
+             
+         }
+         
+         .nav li {
+             margin:5px;
+             display:inline-block;
+         }
+        
+        h1 { color: Teal;
+        
+        }
